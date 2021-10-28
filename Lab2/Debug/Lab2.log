@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+D:\УЧЁБА\5сем\СП\Lab2\Lab2.cpp(207,33): warning C4244: =: преобразование "LRESULT" в "WORD", возможна потеря данных
+D:\УЧЁБА\5сем\СП\Lab2\Lab2.cpp(218): warning C4715: <lambda_cc2cb1a8145277c60d9e1eeb0df5bd7e>::operator(): значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> D:\УЧЁБА\5сем\СП\Lab2\Debug\Lab2.exe
